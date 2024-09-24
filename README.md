@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git Repository.
 <br />
-Author- Nikhil Yadav
+Author- Nikhil Yadav Patra
